@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"dotenv": "^16.0.3",
+		"langchain": "^0.0.64",
+		"tsx": "^3.12.6"
+	}
+}
